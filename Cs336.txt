@@ -1,0 +1,17 @@
+Cs336
+Đề tài: LEGAL DOCUMENT RETRIEVAL
+Thông tin thành viên 
+Đinh Nhật Trường - 22521575 
+Phạm Huỳnh Nhật Tân - 22521309
+Phạm Nguyễn Anh Tuấn - 22521610
+
+Thong tin đồ án
+Link slide báo cáo: https://www.canva.com/design/DAGaePuDAHU/EQOFXtCcdRsJf8OkMc8kiA/edit?utm_content=DAGaePuDAHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Pineline code:
+1. Xử lý văn bản ở: preprocess_corpus_chunk
+2. Encode văn bản đã được xử lý bằng model: encode document
+3. Úp dữ liệu dạng h5 đã được encode lên elastic: up elastic
+4. Querry và rerank: querry and rerank elastic
+4.5 querry local do bọn em đã hết gmail tạo account elastic mới: query_local
+5. Demo bằng streamlit: streamlit
