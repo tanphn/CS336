@@ -7,7 +7,7 @@ Phạm Nguyễn Anh Tuấn - 22521610
 
 Thong tin đồ án
 Link slide báo cáo: https://www.canva.com/design/DAGaePuDAHU/EQOFXtCcdRsJf8OkMc8kiA/edit?utm_content=DAGaePuDAHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+Link github:https://github.com/tanphn/CS336
 Pineline code:
 1. Xử lý văn bản ở: preprocess_corpus_chunk
 2. Encode văn bản đã được xử lý bằng model: encode document
